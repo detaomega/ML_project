@@ -59,7 +59,8 @@ You can download pretrained models here:
 
 ## Results
 
-Private score -> 0.59134
+Private score -> 0.59134 for NN model
+Private score -> 0.58904 for Logistic Regression 
 
 ## Reproduce step 
 
