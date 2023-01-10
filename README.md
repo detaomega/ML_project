@@ -64,8 +64,16 @@ Private score -> 0.58904 for Logistic Regression
 
 ## Reproduce step 
 
+1. clone 
 ```
 git clone https://github.com/detaomega/ML_project.git
 ```
 
+2. install requirements:
+
+```setup
+pip install -r requirements.txt
+```
+
+3. 
 Then you can train and evaluate the model.
